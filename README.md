@@ -13,8 +13,6 @@ The paper can be found [here](/https://hal.science/hal-04494994/document).
 
 <div align="center">
 <picture>
-<source media=media="(prefers-color-scheme: light)" srcset="abstract.png">
-<source media=media="(prefers-color-scheme: dark)" srcset="asbtract_black.png">
 <img alt="Graphical Abstract" src="abstract.jpeg" width="300">  
 </picture>  
 </div>
